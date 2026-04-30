@@ -1,16 +1,16 @@
 # Hi there, I'm Anshul Kumar 👋
 
-**AI & Machine Learning Engineer Researcher | Research Intern at IIT BHU**[cite: 1, 2]
+**AI & Machine Learning Engineer Researcher | Research Intern at IIT BHU**
 
 ---
 
 ### 🔭 I’m currently working on ...
-*   **NeuroFusion7**: Developing an MRI-based deep learning pipeline for brain disorder classification using TensorFlow and CNNs[cite: 1, 2].
+*   **NeuroFusion7**: Developing an MRI-based deep learning pipeline for brain disorder classification using TensorFlow and CNNs.
 *   **Medical Imaging Research**: Designing custom dual-branch fusion architectures at **IIT BHU** to improve classification accuracy by 12-15%[cite: 1, 2].
 
 ### 🌱 I’m currently learning ...
-*   **Advanced MLOps**: Scaling model deployments using **Docker**, **FastAPI**, and **REST APIs**[cite: 1, 2].
-*   **Scalable Backend Architectures**: Enhancing my expertise in **Node.js** and **MongoDB** for robust systems[cite: 1, 2].
+*   **Advanced MLOps**: Scaling model deployments using **Docker**, **FastAPI**, and **REST APIs**
+*   **Scalable Backend Architectures**: Enhancing my expertise in **Node.js** and **MongoDB** for robust systems.
 
 ### 🛠 Technical Toolkit
 *   **Languages**: Python, C, SQL, JavaScript[cite: 1, 2].
