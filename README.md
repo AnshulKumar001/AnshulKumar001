@@ -10,7 +10,7 @@
 
 ### 🛠 Core Stack
 *   **AI/ML**: Python, TensorFlow, Keras, Scikit-learn, CNN, NLP.
-*   **Engineering**: Node.js, MongoDB, FastAPI, Docker, Streamlit.
+*   **Engineering**: Node.js, FastAPI, Docker, Streamlit.
 *   **Problem Solving**: Daily DSA practitioner on LeetCode & GFG.
 
 ### 🏆 Top Projects
